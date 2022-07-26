@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/ndax-staking-concept/static/css/main.bb79ccae.css",
-    "main.js": "/ndax-staking-concept/static/js/main.add910b5.js",
+    "main.js": "/ndax-staking-concept/static/js/main.d26afd4c.js",
     "static/js/787.6bb21457.chunk.js": "/ndax-staking-concept/static/js/787.6bb21457.chunk.js",
+    "static/media/ndax-staking-concept-bg-glow.png": "/ndax-staking-concept/static/media/ndax-staking-concept-bg-glow.cc36609875a69be42d4d.png",
     "static/media/ndax-eth-anim.webm": "/ndax-staking-concept/static/media/ndax-eth-anim.e8139d778e5041a5f844.webm",
     "static/media/ndax-staking-concept-website.png": "/ndax-staking-concept/static/media/ndax-staking-concept-website.85385b3501bfb4947cb9.png",
-    "static/media/ndax-staking-concept-bg-glow2.png": "/ndax-staking-concept/static/media/ndax-staking-concept-bg-glow2.e355e6e11cf36ef6acb2.png",
     "static/media/poppins-all-400-normal.woff": "/ndax-staking-concept/static/media/poppins-all-400-normal.6fbfdac99c274b77fe96.woff",
     "static/media/poppins-all-300-normal.woff": "/ndax-staking-concept/static/media/poppins-all-300-normal.9541f56e25efdc1d8e2d.woff",
     "static/media/poppins-all-200-normal.woff": "/ndax-staking-concept/static/media/poppins-all-200-normal.46e894ee94f127ce0c16.woff",
@@ -44,11 +44,11 @@
     "static/media/poppins-latin-ext-900-normal.woff2": "/ndax-staking-concept/static/media/poppins-latin-ext-900-normal.01e6234f6462c2d55aea.woff2",
     "index.html": "/ndax-staking-concept/index.html",
     "main.bb79ccae.css.map": "/ndax-staking-concept/static/css/main.bb79ccae.css.map",
-    "main.add910b5.js.map": "/ndax-staking-concept/static/js/main.add910b5.js.map",
+    "main.d26afd4c.js.map": "/ndax-staking-concept/static/js/main.d26afd4c.js.map",
     "787.6bb21457.chunk.js.map": "/ndax-staking-concept/static/js/787.6bb21457.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bb79ccae.css",
-    "static/js/main.add910b5.js"
+    "static/js/main.d26afd4c.js"
   ]
 }
