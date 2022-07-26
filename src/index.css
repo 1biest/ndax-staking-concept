@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Poppins";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background-image: linear-gradient(
+  30deg,
+  hsl(228deg 43% 16%) 6%,
+  hsl(230deg 38% 19%) 41%,
+  hsl(232deg 35% 21%) 54%,
+  hsl(235deg 32% 24%) 63%,
+  hsl(237deg 30% 26%) 70%,
+  hsl(239deg 27% 29%) 76%,
+  hsl(241deg 26% 31%) 81%,
+  hsl(239deg 26% 30%) 85%,
+  hsl(238deg 27% 29%) 89%,
+  hsl(236deg 28% 27%) 91%,
+  hsl(234deg 28% 26%) 94%,
+  hsl(233deg 29% 25%) 96%,
+  hsl(231deg 29% 23%) 98%,
+  hsl(231deg 31% 22%) 99%,
+  hsl(231deg 33% 21%) 100%,
+  hsl(230deg 35% 20%) 101%,
+  hsl(230deg 37% 19%) 101%,
+  hsl(229deg 40% 18%) 101%,
+  hsl(228deg 43% 16%) 100%
+  );
+}
+
+code {
+  font-family: "Gill Sans", sans-serif,
+    monospace;
+}
